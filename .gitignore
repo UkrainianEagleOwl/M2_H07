@@ -1,0 +1,14 @@
+
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/M2_H06.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+Example/create_db.py
+Example/fill_data.py
+Example/pyproject.toml
+Example/salary.db
+Example/salary.sql
+Example/select_first.py
+Example/select_second.py
+Example/select_third.py
